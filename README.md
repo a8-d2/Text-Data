@@ -1,5 +1,5 @@
-# Videoken
-Scraping data files (to be used to extract pdf for Videoken)
+# Text- Data
+Scraping data files (to be used to extract pdf for specific purposes)
 
 Languages used : python 3.5.0
 
